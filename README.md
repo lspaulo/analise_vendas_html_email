@@ -8,6 +8,7 @@
 # 📌​ Projeto
 
 | Uma grande base de dados, um tratamento poderoso com python e como resultado, um confortável email com |
+| ------------------------------------------------------------------------------------------------------- |
 |informações relevantes para o negócio e para a gestão.|
 
 
