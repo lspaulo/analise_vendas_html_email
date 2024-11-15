@@ -1,8 +1,5 @@
 <p align="center"> <img src="img/vendas.png", width="300px"> </p></img>
 
-<p align="center"><img src="https://img.shields.io/github/languages/top/Anameliti/overview-finances"> <img src="https://img.shields.io/badge/Post-Linkedin-blue"> <img src="https://img.shields.io/github/languages/code-size/Anameliti/overview-finances">
-</p>
-
 ------
  
 # 📌​ Projeto
@@ -17,6 +14,7 @@ Uma grande base de dados, um tratamento poderoso com python e como resultado, um
 | Ferramentas | Descrição |
 | --- | ------------------- |
 | VS Code | é um editor de código-fonte gratuito e poderoso para desktop. |
+| Python | é uma linguagem de programação de alto nível, conhecida por sua simplicidade e legibilidade. |
 
 ------
 
