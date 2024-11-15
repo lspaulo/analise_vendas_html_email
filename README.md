@@ -12,15 +12,11 @@ Uma grande base de dados, um tratamento poderoso com python e como resultado, um
 
 --------
 
-# ⚙️​ Tools/Ferramentas
+# 🛠️​ Tools/Ferramentas
 
 | Ferramentas | Descrição |
 | --- | ------------------- |
-| VS Code | é um editor de código-fonte leve, mas poderoso, que é executado na área de trabalho |
-
-| Tools | Description |
-| --- | ------------------- |
-| VS Code | VS Code is a lightweight yet powerful source code editor that runs on the desktop  |
+| VS Code | é um editor de código-fonte gratuito e poderoso para desktop. |
 
 ------
 
@@ -28,31 +24,18 @@ Uma grande base de dados, um tratamento poderoso com python e como resultado, um
 
 | Biblioteca | Descrição |
 | --- | ------------------- |
-| Pandas | Para manipulação e análise de dados  |
-| Plotly.Express | Para visualização de dados e criação de dashboards |
-| Smtplib | Para o envio do e-mail para diversos destinatários |
-| Email.message | Para criação e envio do e-mail  |
-| Babel.Numbers | Para formatação dos números decimais em moedas BRL  |
-
-| Library | Description |
-| --- | ------------------- |
-| Pandas | For data manipulation and analysis  |
-| Plotly.Express | For data visualization and dashboard creation  |
-| Smtplib | To send the email to multiple recipients  |
-| Email.message | To create and send the email  |
-| Babel.Numbers | To format decimal numbers in BRL currencies  |
+| Pandas | Para tratamento e exploração de dados  |
+| Plotly.Express | Para visualização de dados e desenvolvimento de painéis interativos |
+| Smtplib | | Para envio de e-mails a múltiplos destinatários |
+| Email.message | Para compor e enviar e-mails  |
+| Babel.Numbers | Para formatar números decimais em moedas BRL  |
 
 -----
 
-# 🗺️​ Add/Adicionais
+# ℹ️ Informações Complementares
 
-- O código deste projeto está na pasta `case-vendas` como `casesolution`
-- O e-mail consolidado está na pasta `e-mail`
+- O código deste projeto está localizado na pasta Projeto_Vendas com o nome Projeto1.Py.
 
-- The code for this project is in the `case-sales` folder as `casesolution`
-- The consolidated email is in the `email` folder
 
 -----
-
-Com amor, Ana Meliti 💜​
 
