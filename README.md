@@ -1,4 +1,4 @@
-<p align="center"> <img src="C:\Users\LUIS PAULO\OneDrive\MEUS DOCUMENTOS\EDUCAÇÃO\CURSOS\Git e Git Hub\Teste\img\vendas.png", width="400px"> </p></img>
+<p align="center"> <img src="Teste\img\vendas.png", width="400px"> </p></img>
 
 <p align="center"><img src="https://img.shields.io/github/languages/top/Anameliti/overview-finances"> <img src="https://img.shields.io/badge/Post-Linkedin-blue"> <img src="https://img.shields.io/github/languages/code-size/Anameliti/overview-finances">
 </p>
