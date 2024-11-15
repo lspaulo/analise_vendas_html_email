@@ -26,7 +26,7 @@ Uma grande base de dados, um tratamento poderoso com python e como resultado, um
 | --- | ------------------- |
 | Pandas | Para tratamento e exploração de dados  |
 | Plotly.Express | Para visualização de dados e desenvolvimento de painéis interativos |
-| Smtplib | | Para envio de e-mails a múltiplos destinatários |
+| Smtplib | Para envio de e-mails a múltiplos destinatários |
 | Email.message | Para compor e enviar e-mails  |
 | Babel.Numbers | Para formatar números decimais em moedas BRL  |
 
