@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://image.lexica.art/full_webp/5fef530b-ed42-4f06-83a0-13bcd7a0a016", width="400px"> </p></img>
+<p align="center"> <img src="img/vendas.png", width="400px"> </p></img>
 
 <p align="center"><img src="https://img.shields.io/github/languages/top/Anameliti/overview-finances"> <img src="https://img.shields.io/badge/Post-Linkedin-blue"> <img src="https://img.shields.io/github/languages/code-size/Anameliti/overview-finances">
 </p>
