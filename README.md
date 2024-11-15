@@ -3,19 +3,11 @@
 <p align="center"><img src="https://img.shields.io/github/languages/top/Anameliti/overview-finances"> <img src="https://img.shields.io/badge/Post-Linkedin-blue"> <img src="https://img.shields.io/github/languages/code-size/Anameliti/overview-finances">
 </p>
 
-<p align="center"><img src="https://lexica.art/prompt/7ffdcfa8-3757-43e0-8828-88656f489e1f"> 
-
-</p>
-
 ------
  
-# 🎯​ Desafio/Challenge
+# 📌​ Projeto
 
-Imagine gerenciar várias lojas espalhadas por diferentes regiões, cada loja com seu ritmo, suas peculiaridades e desafios. 
-O objetivo? Conseguir uma visão clara e detalhada dos resultados mensais de forma automática por e-mail. 
-
-Imagine managing several stores spread across different regions, each store with its own rhythm, peculiarities and challenges. 
-The goal? Get a clear and detailed view of monthly results automatically via email.
+| Uma grande base de dados, um tratamento poderoso com python e como resultado, um confortável emai com informações relevantes para o negócio e para a gestão.|
 
 --------
 
